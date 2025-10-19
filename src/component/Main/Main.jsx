@@ -1,7 +1,7 @@
 import React from "react";
 import "./Main.css"
 import { assets } from '../../assets/assets'
-import { Context } from "../../Context/Context";
+import { Context } from "../../Context/Context.jsx";
 
 const Main = () => {
     const { onSent, recentPrompt, showResult, loading, resultData, setInput, input } = React.useContext(Context)
