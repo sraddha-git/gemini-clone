@@ -11,7 +11,7 @@ A fully functional **Gemini AI clone** built with **React** and **Vite**, featur
 
 ## Live Demo
 Check out the live version here:  
-🌐 [Gemini Clone Live](https://gemini-clone-nk4lr1l9s-sraddhas-projects.vercel.app)
+🌐 [Gemini Clone Live](https://gemini-clone-ivory-three.vercel.app)
 
 ---
 
