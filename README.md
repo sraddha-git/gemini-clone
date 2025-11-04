@@ -5,7 +5,7 @@ A fully functional **Gemini AI clone** built with **React** and **Vite**, featur
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-3.2-green?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
 
 ---
 
